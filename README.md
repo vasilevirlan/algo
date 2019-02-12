@@ -1,2 +1,2 @@
 # algo
-##This I'll put the algorithms I'll deal with.
+##In this repo I'll put the algorithms I'll deal with.
